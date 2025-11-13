@@ -1,0 +1,14 @@
+.orders-list {
+  width: 400px;
+  background: #fff;
+  border-radius: 16px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 10px rgba(60, 40, 20, 0.2);
+}
+
+.order-item {
+  background: #f6ece1;
+  padding: 0.6rem 1rem;
+  border-radius: 10px;
+  margin-bottom: 0.5rem;
+}
